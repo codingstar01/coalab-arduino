@@ -23,7 +23,7 @@ coalab-arduino/
 
 1. 저장소를 내려받습니다.
    ```bash
-   git clone https://github.com/<내 계정>/coalab-arduino.git
+   git clone https://github.com/codingstar01/coalab-arduino.git
    cd coalab-arduino
    ```
 2. 파이썬 패키지를 설치합니다.
