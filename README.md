@@ -56,7 +56,6 @@ coalab-arduino/
 | 14 | 컨베이어벨트 (L298N + IR 센서 가정) | `arduino/14_conveyor/` | `python/14_conveyor.py` |
 | 15 | 스마트팜 (토양수분 + 릴레이 펌프) | `arduino/15_smart_farm/` | `python/15_smart_farm.py` |
 
-> 주의: 11~15장 소스는 실제 하드웨어로 시험하지 않았습니다. 로봇암 각도, 릴레이 동작(LOW=켜짐 기준), 컨베이어 부품은 내 장치에 맞게 조정하세요.
 > 09장은 Arduino IDE 라이브러리 관리자에서 "DHT sensor library"(Adafruit)를 설치해야 합니다.
 
 ## 문의
